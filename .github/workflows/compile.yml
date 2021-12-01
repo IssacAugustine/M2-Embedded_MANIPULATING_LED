@@ -18,5 +18,4 @@ jobs:
     - name: Compile
       run: make -C 3_Implementation
    
-    - name: make distcheck
-      run: make distcheck
+
