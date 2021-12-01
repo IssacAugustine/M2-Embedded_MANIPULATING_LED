@@ -5,7 +5,7 @@
 
 
 
-void switch_off()
+void led_off()
 {
        PORTB &= (~(1<<PINB2))&(~(1<<PINB3));
 
