@@ -1,7 +1,23 @@
 # Requirements
+
 # Introduction
-  
+Manipulating led is a process of blinking the led.It can be done by using many ways,
+
+1.Relays.
+
+2.Transistors.
+
+3.Inverter.
+
+4.555 Timer.
+
+5.ATmega328 Microcontroller.
+
+Here swtich is used to blink the two LED using ATmega328(a microcontroller).
+
+
 # Objective
+The main objective is to manipulating the led using ATmega328 and a switch to controll two LED's.
 
 # Components used
 1.ATmega328   
@@ -15,8 +31,6 @@
 1.simulIDe
 
 2.Visual Studie Code
-# Research
-  
 
 # Features
    It has simple features.
